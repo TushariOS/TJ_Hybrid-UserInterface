@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		789CB06D210ACBE200C4C198 /* HabridUserInterface.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HabridUserInterface.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		789CB06D210ACBE200C4C198 /* HybridUserInterface.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HybridUserInterface.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		789CB070210ACBE200C4C198 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		789CB072210ACBE200C4C198 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		789CB075210ACBE200C4C198 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 		789CB06E210ACBE200C4C198 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				789CB06D210ACBE200C4C198 /* HabridUserInterface.app */,
+				789CB06D210ACBE200C4C198 /* HybridUserInterface.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		789CB06C210ACBE200C4C198 /* HabridUserInterface */ = {
+		789CB06C210ACBE200C4C198 /* HybridUserInterface */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 789CB07F210ACBE200C4C198 /* Build configuration list for PBXNativeTarget "HabridUserInterface" */;
+			buildConfigurationList = 789CB07F210ACBE200C4C198 /* Build configuration list for PBXNativeTarget "HybridUserInterface" */;
 			buildPhases = (
 				789CB069210ACBE200C4C198 /* Sources */,
 				789CB06A210ACBE200C4C198 /* Frameworks */,
@@ -107,9 +107,9 @@
 			);
 			dependencies = (
 			);
-			name = HabridUserInterface;
+			name = HybridUserInterface;
 			productName = HabridUserInterface;
-			productReference = 789CB06D210ACBE200C4C198 /* HabridUserInterface.app */;
+			productReference = 789CB06D210ACBE200C4C198 /* HybridUserInterface.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -128,7 +128,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 789CB068210ACBE200C4C198 /* Build configuration list for PBXProject "HabridUserInterface" */;
+			buildConfigurationList = 789CB068210ACBE200C4C198 /* Build configuration list for PBXProject "HybridUserInterface" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -141,7 +141,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				789CB06C210ACBE200C4C198 /* HabridUserInterface */,
+				789CB06C210ACBE200C4C198 /* HybridUserInterface */,
 			);
 		};
 /* End PBXProject section */
@@ -333,7 +333,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		789CB068210ACBE200C4C198 /* Build configuration list for PBXProject "HabridUserInterface" */ = {
+		789CB068210ACBE200C4C198 /* Build configuration list for PBXProject "HybridUserInterface" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				789CB07D210ACBE200C4C198 /* Debug */,
@@ -342,7 +342,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		789CB07F210ACBE200C4C198 /* Build configuration list for PBXNativeTarget "HabridUserInterface" */ = {
+		789CB07F210ACBE200C4C198 /* Build configuration list for PBXNativeTarget "HybridUserInterface" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				789CB080210ACBE200C4C198 /* Debug */,

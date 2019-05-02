@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:HabridUserInterface.xcodeproj">
+      location = "self:/Users/tushar/Desktop/Swift Palyground/GitRepos/HabridUserInterface/HybridUserInterface.xcodeproj">
    </FileRef>
 </Workspace>
